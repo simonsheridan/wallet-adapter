@@ -1,0 +1,22 @@
+{
+  "name": "wallet-adapter",
+  "version": "1.0.0",
+  "description": "sample wallet",
+  "main": "index.js",
+  "scripts": {
+    "test": "yarn run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/simonsheridan/wallet-adapter.git"
+  },
+  "author": "Simon Sheridan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/simonsheridan/wallet-adapter/issues"
+  },
+  "homepage": "https://github.com/simonsheridan/wallet-adapter#readme",
+  "dependencies": {
+    "yarn": "^1.22.17"
+  }
+}
